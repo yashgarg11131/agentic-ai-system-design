@@ -41,3 +41,6 @@ Designed a **multi-agent AI architecture** where specialized agents handle diffe
 
 ## 🛠️ Tech Stack
 Python, FastAPI, LLM APIs, Prompt Engineering, Agentic AI
+
+## 📜 Certification
+Certified in Product Management and Agentic AI – IIT Patna (Vishlesan iHub x Masai)
