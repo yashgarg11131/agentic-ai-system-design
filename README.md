@@ -1,5 +1,8 @@
 # Agentic AI System for Multi-Step Decision Workflows
 
+## 🎯 Why This Project Matters
+This project demonstrates how building production-grade AI systems requires strong product thinking around reliability, scalability, cost, and user outcomes — not just model performance.
+
 ## 🧩 Problem
 Traditional LLM-based systems struggle with multi-step reasoning, context retention, and complex decision workflows. This leads to low accuracy, inconsistent responses, and poor reliability in production environments.
 
